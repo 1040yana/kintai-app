@@ -1,0 +1,13 @@
+{
+  "name": "らくらく勤怠",
+  "short_name": "勤怠",
+  "description": "少人数チーム向けのシンプルな勤怠打刻アプリ",
+  "lang": "ja",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#146c5b",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
