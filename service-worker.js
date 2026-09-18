@@ -1,4 +1,4 @@
-const CACHE = 'rakuraku-kintai-v3';
+const CACHE = 'rakuraku-kintai-v4';
 const APP_FILES = ['./', './index.html', './manifest.webmanifest', './icon.svg'];
 
 self.addEventListener('install', event => {
